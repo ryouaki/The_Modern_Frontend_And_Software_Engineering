@@ -1,2 +1,4 @@
-# The_Modern_Frontend_And_Software_Engineering
-The modern frontend and software engineering(现代前端与软件工程).
+# 现代前端与软件工程
+这里并不会讲解框架原理，也不会去讲解如何手写`Promise`，而是关注如何使用`软件工程`理论去帮助我们构建易于维护和扩展的`前端工程`。帮助我们用更适合的方法去提效，去避坑。通过科学的`软件工程`的方法论来指导我们搭建健康合理的前端工程体系。
+
+# 
